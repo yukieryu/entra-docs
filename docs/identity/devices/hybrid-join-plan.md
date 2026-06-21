@@ -50,6 +50,7 @@ Microsoft Entra hybrid join supports a broad range of Windows devices.
   - **Note:** Azure National cloud customers require version 1803
 - Windows Server 2019
 - Windows Server 2022
+- Windows Server 2025
 
 As a best practice, Microsoft recommends you upgrade to the latest version of Windows.
 
